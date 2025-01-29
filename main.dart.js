@@ -32715,7 +32715,7 @@ _.e=c
 _.f=d
 _.r=e
 _.a=f},
-bfV(){var s,r,q,p,o,n,m,l=A.aY7("https://login.flexpdv.app:"+B.e.j(8444)+"/comercial/api",B.iA,B.iA),k=new A.xg(l)
+bfV(){var s,r,q,p,o,n,m,l=A.aY7("https://login.sorteoexpress.com:"+B.e.j(8444)+"/sorteo/api",B.iA,B.iA),k=new A.xg(l)
 l=k.a=A.alL(l)
 s=l.cH$
 r=$.E0
@@ -32728,7 +32728,7 @@ m=q.lL()
 n.a=A.li(A.a([m,p.lL(),o.lL()],t.mo),t.H)
 s.F(s,A.a([new A.ym(),new A.yX(),new A.AJ(),new A.De(),new A.A_(new A.Sd(l,r)),new A.Jk(n)],t.lC))
 return k},
-QI(){var s,r,q=A.aY7("https://login.flexpdv.app:"+B.e.j(8444)+"/comercial/api",B.iA,B.iA),p=new A.xg(q)
+QI(){var s,r,q=A.aY7("https://login.sorteoexpress.com:"+B.e.j(8444)+"/sorteo/api",B.iA,B.iA),p=new A.xg(q)
 q=p.a=A.alL(q)
 s=q.cH$
 r=$.E0
