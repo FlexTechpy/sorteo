@@ -1,6 +1,6 @@
 {
-    "name": "sorteo",
-    "short_name": "sorteo",
+    "name": "congreso_evento",
+    "short_name": "congreso_evento",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
